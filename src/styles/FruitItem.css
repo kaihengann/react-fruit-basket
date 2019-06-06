@@ -1,0 +1,12 @@
+ul {
+  min-width: 200px;
+  margin: 2rem;
+  list-style: none;
+  font-size: 2rem;
+  text-align: left;
+}
+
+ul li {
+  padding: 1rem 0;
+  text-transform: capitalize;
+}
