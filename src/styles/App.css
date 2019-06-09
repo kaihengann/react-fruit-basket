@@ -4,3 +4,10 @@
   align-items: left;
   margin: 0 150px;
 }
+
+@media only screen  
+and (max-device-width : 812px)  {
+  #root {
+    margin: 0 30px;
+  }
+}
